@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/numertelefonu"
+        android:title="@string/numertel" />
+    <item android:id="@+id/tryb"
+        android:title="@string/trybSMS" />
+</menu>
